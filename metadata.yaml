@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3383
     wikipedia: http://en.wikipedia.org/wiki/George_Wilbur_Peck
 description: The adventures of Peck's son.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25487#Peck-s-Bad-Boy-and-His-Pa1883
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2008-05-16'
 gutenberg_type: Text
